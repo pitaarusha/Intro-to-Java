@@ -153,6 +153,7 @@ public class Main {
 
         // BLOCK 6
 
+        
         double grade6 = 0.0;
 
         // Get the student's marks
